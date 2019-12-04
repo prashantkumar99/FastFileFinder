@@ -3,5 +3,5 @@ FastFileFinder is a search tool for windows 10 or higher. It searches files and 
 ## Launcher
 Launch FastFileFinder.jar
 ## Requirements
-Java Runtime Environment(JRE) 1.8 or higher
-Windows 7 or higher
+1. Java Runtime Environment(JRE) 1.8 or higher
+2. Windows 7 or higher
